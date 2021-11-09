@@ -466,4 +466,7 @@ header .navbar a:hover{
     html{
         font-size: 50%;
     }
+    .order .row form .inputBox input{
+      width:100%;
+    }
 }
